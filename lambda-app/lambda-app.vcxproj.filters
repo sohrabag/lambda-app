@@ -33,6 +33,9 @@
     <ClInclude Include="IntVector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Iter2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -44,10 +47,10 @@
     <ClCompile Include="AddressBook.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Iter.cpp">
+    <ClCompile Include="IntVector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="IntVector.cpp">
+    <ClCompile Include="Iter2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
